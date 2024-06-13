@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1200"  src="https://imageshack.com/i/pn5ZhKpPj" alt="infarction prediction banner">
+  <img width="1200"  src="https://imagizer.imageshack.com/img923/6061/5ZhKpP.jpg" alt="infarction prediction banner">
 </p>
 
 # Infarction Prediction

@@ -4,7 +4,7 @@ from ecg import ECG
 import matplotlib.pyplot as plt
 
 # Añadir una imagen en la parte superior de la aplicación
-st.image("img.png", use_column_width=True)
+st.image("imagen.png", use_column_width=True)
 
 # Título de la aplicación
 st.title("Predicción de Infarto de Miocardio mediante ECG")
