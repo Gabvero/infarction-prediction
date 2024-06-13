@@ -63,7 +63,8 @@ To run the Dockerized version of the project, follow these steps:
 
 ### Try it on your phone
 
-Access the application: open your phone's web browser and navigate to https://infarction-prediction-52u2goe246kqvffzm4sjtl.streamlit.app/#_ts1718269851931
+Access the application: open your phone's web browser and navigate to:
+https://infarction-prediction-saturdays.streamlit.app/
 
 You should see the responsive Streamlit app interface, where you can upload an image or take a mobile photo of an ECG to get the prediction.
 
